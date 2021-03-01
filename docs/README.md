@@ -174,7 +174,6 @@ Here you can visualize all the structure your xml should have, in case you donâ€
 You can use the xml we used in Video Game Development class last semester as a reference.
 
 <img src="images/xml.jpg" width="550">
-<img src="images/xml.png" width="350">
 
 #### UML
 
@@ -184,6 +183,14 @@ The scheme should be very simple to be able to understand the module structure i
 You have lots of references on the internet. 
 A useful reference I found for you is this UML from this CITM students project.
 
-<img src="images/uml.jpg" width="550">
+<img src="images/uml.png" width="550">
 
 ### 5. Technical Risk
+This part can be optional.
+
+Analyze the any lack the team might have in this project. This is useful to be able to see which part will be more difficult than another and strengthen it for the sake of making a solid project.
+
+Is the library new to us? We didnâ€™t work yet with this type of game?
+All this questions can be answered here.
+
+
