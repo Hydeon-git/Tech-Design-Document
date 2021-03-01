@@ -1,4 +1,5 @@
-# Tech Design Document
+# Tech Design Document Research
+
 ## Introduction
 This is a webpage created for hosting a research I did about Tech Design Document for the subject Project II while I was coursing my Degree in Game Desing & Development in CITM-UPC.
 
@@ -150,15 +151,39 @@ Explain what object in your game has collisions and the reason for it.
 
 Useful for explaining specific functionalities that may be difficult to remember.
 
-
 #### Data Management
 How the data will be managed? Saved on an XML?
 
 When will it Save or Load? Checkpoints?
 
+<img src="images/collision.gif" width="550">
+
 ### 4. Code Style
 #### Naming Conventions
+General guideline on how your code should be written. Essential section for your team to be able to read and understand code from other coworkers.
+
+Take a look at Ray’s code conventions for a good reference on how it’s done.
+
+<img src="images/conventions.jpg" width="550">
+
 #### XML Structure
+Structure of your game xml. Useful guideline while developing.
+
+Here you can visualize all the structure your xml should have, in case you don’t remember it.
+
+You can use the xml we used in Video Game Development class last semester as a reference.
+
+<img src="images/xml.jpg" width="550">
+<img src="images/xml.png" width="350">
+
 #### UML
+
+Structure of all the modules in the game.
+The scheme should be very simple to be able to understand the module structure in seconds.
+
+You have lots of references on the internet. 
+A useful reference I found for you is this UML from this CITM students project.
+
+<img src="images/uml.jpg" width="550">
 
 ### 5. Technical Risk
