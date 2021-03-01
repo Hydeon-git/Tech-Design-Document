@@ -194,3 +194,29 @@ Is the library new to us? We didn’t work yet with this type of game?
 All this questions can be answered here.
 
 
+## Conclusion
+In general, the TDD may vary depending on the company, project, necessities, etc.
+
+This is the template prepared for the class. It includes everything that we covered in the class.
+
+Feel free to change the template for your necessities, always checking references, of course.
+
+<img src="images/mario.png" width="350">
+
+## Template
+https://github.com/Hydeon-git/research_TDD/blob/main/tdd_template/tdd_template.docx
+
+## Bibliography
+This are the resources i've been used for the research. Feel free to check them out!
+
+https://www.studytonight.com/3d-game-engineering-with-unity/tdd-and-gdd
+
+https://github.com/GameDesign/Zero/wiki/Technical-Design-Document#Development_Hardware
+
+https://github.com/DevCrumbs/Warcraft-II/wiki/7.-Tech-Design-Document
+
+https://www.reddit.com/r/gamedev/comments/5sa9rz/how_to_find_minimum_system_requirements/
+
+https://www.youtube.com/watch?v=jT_zOr7bElY
+
+https://www.gamedev.net/forums/topic/685673-should-the-gdd-contain-the-gui-layout/5328875/
