@@ -35,7 +35,7 @@ The TDD contains the technical data to make it real.
 This are the essential documents for a successful game development.
 We already have seen the **Production Plan, Art Bible and Audio Bible** in class!
 
-![Game Documentation](images/docs.jpg)
+<img src="images/docs.jpg" width="500">
 
 And now that we located ourselves, let’s see how to do it!
 
@@ -85,15 +85,76 @@ In which library and language will be written all the game?
 What are the requirements of the software you are using?
 ##### **Development Software**
 Which software will be using the team for the development?
+
+<img src="images/requeriments.jpg" width="550">
+
 #### GitHub Branching
+
+How your team will manage the branches on GitHub? 
+Here’s a tip: Use 3 different branches.
+Master branch: Only for release purpose. Merging from the dev branch.
+
+Development branch: One main branch + temporal branch for each new feature.
+
+Bug Fixing branch: Only for fixing bugs.
+
+<img src="images/git_branches.png" width="550">
 
 ### 3. Technical Features
 #### Technical Requirements
+List all the main technical features of your game.
+
+
+Example:
+
+The game increases the difficulty by leveling up the life and damage of the monsters.
+
 #### Module Architecture
+What module structure do we have in our project?
+
+What happens in that module in particular?
+
+Do not provide a scheme, what we want here is to list what each module does.
+
+<img src="images/animalcrossing.gif" width="550">
+
 #### Game Flow
+Explain everything that happens in a  game loop. Think of it like a guided tour of your game. 
+
+A scheme might be really useful here too.
+
 #### Graphics
+The screen resolution, tile size and camera view should be documented here in a few lines specifying its characteristics.
+
+#### Audio
+Specify what music or sound will be heard in what moment on the game.
+
+<img src="images/persona_dialogue.png" width="550">
+
+#### Artificial Intelligence
+What enemies in your game do have intelligence?
+
+Do they attack trying to discover your weaknesses?
+
+Write how every enemy works.
+
+
+Example:
+When you kill an enemy, it drops an item. 
+
+Explain how the AI you implemented manages an item pool checking your current level.
+
+
 #### Physics
+Explain what object in your game has collisions and the reason for it.
+
+Useful for explaining specific functionalities that may be difficult to remember.
+
+
 #### Data Management
+How the data will be managed? Saved on an XML?
+
+When will it Save or Load? Checkpoints?
 
 ### 4. Code Style
 #### Naming Conventions
