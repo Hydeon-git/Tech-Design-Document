@@ -201,7 +201,7 @@ This is the template prepared for the class. It includes everything that we cove
 
 Feel free to change the template for your necessities, always checking references, of course.
 
-<img src="images/mario.png" width="350">
+<img src="images/mario.png" width="150">
 
 ## Template
 https://github.com/Hydeon-git/research_TDD/blob/main/tdd_template/tdd_template.docx
