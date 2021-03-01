@@ -4,9 +4,10 @@ This is a webpage created for hosting a research I did about Tech Design Documen
 
 In this website we will see why big companies use the TDD and how they create it. We will cover and explain every section carefully.
 
-![paper_stack](images/paper_stack.jpg)
+<img src="images/paper_stack.jpg" width="350">
 
-### What's a Technical Design Document?
+
+## What's a Technical Design Document?
 The Technical Design Document (TDD) is an essential piece that goes hand by hand with the Game Design Document (GDD) and the Art Bible.
 The TDD should be located on an internal website and has to be updated constantly throughout  the project realization. In our case, in a GitHub Wiki.
 
@@ -30,7 +31,7 @@ The TDD contains the technical data to make it real.
 
 ![Valheim Gameplay](images/valheim.gif)
 
-### Document Overview
+## Document Overview
 This are the essential documents for a successful game development.
 We already have seen the **Production Plan, Art Bible and Audio Bible** in class!
 
@@ -38,7 +39,7 @@ We already have seen the **Production Plan, Art Bible and Audio Bible** in class
 
 And now that we located ourselves, let’s see how to do it!
 
-### How to do a Technical Design Document?
+## How to do a Technical Design Document?
 The TDD is composed in 5 parts.
 We will see and explain carefully every one of them with its sub sections.
 
@@ -57,12 +58,33 @@ Answer all this questions in this section!
 
 What are the minimum requirements of your game in order to play it in a solid 60 fps in a computer? What hardware should that computer have to be able to play it?
 
+<img src="images/consoles.jpg" width="350">
+
+How do I know which are the **minimum requirements** for my game?
+
+The answer is **TESTING**.
+
+Once the game is done, test it in all the computers you can. Make sure that the computers you test are diverse in its performance.
+
+When you find the lowest-end pc that runs your game in **low/mid graphics at solid 60fps**, you found the minimum specs for your game!
+
+<img src="images/requirements2.png" width="450">
+
 
 ### 2. Development Overview
 #### Development Team
+Every person in the team must be here. It has to be recorded which role every coworker has.
+
+It is encouraged to give a short description in one line of what exactly this person will do in the project.
+
+<img src="images/team.jpg" width="350">
+
 #### Development Environment
-###### Development Hardware
-##### Development Software
+In which library and language will be written all the game?
+##### **Development Hardware**
+What are the requirements of the software you are using?
+##### **Development Software**
+Which software will be using the team for the development?
 #### GitHub Branching
 
 ### 3. Technical Features
