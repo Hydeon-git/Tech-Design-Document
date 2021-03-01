@@ -1,3 +1,4 @@
+# Tech Design Document
 # Introduction
 This is a webpage created for hosting a research I did about Tech Design Document for the subject Project II while I was coursing my Degree in Game Desing & Development in CITM-UPC.
 
@@ -18,7 +19,7 @@ On the other hand the TDD provides a blueprint for the engineers working on the 
 
 ![TDD and GDD differences](images/differences.jpg)
 
-Let’s take a look at this Valheim gif!
+Now, let’s take a look at this Valheim gif!
 We can see that there’s fog in the environment, we can different effects in screen and there’s a UI too.
 
 This aspects of the game are in both documents:
