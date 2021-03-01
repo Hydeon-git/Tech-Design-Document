@@ -1,12 +1,12 @@
 # Tech Design Document
-# Introduction
+## Introduction
 This is a webpage created for hosting a research I did about Tech Design Document for the subject Project II while I was coursing my Degree in Game Desing & Development in CITM-UPC.
 
 In this website we will see why big companies use the TDD and how they create it. We will cover and explain every section carefully.
 
 ![paper_stack](images/paper_stack.jpg)
 
-## What's a Technical Design Document?
+### What's a Technical Design Document?
 The Technical Design Document (TDD) is an essential piece that goes hand by hand with the Game Design Document (GDD) and the Art Bible.
 The TDD should be located on an internal website and has to be updated constantly throughout  the project realization. In our case, in a GitHub Wiki.
 
@@ -30,25 +30,26 @@ The TDD contains the technical data to make it real.
 
 ![Valheim Gameplay](images/valheim.gif)
 
-## Document Overview
+### Document Overview
 This are the essential documents for a successful game development.
 We already have seen the **Production Plan, Art Bible and Audio Bible** in class!
 
-![Valheim Gameplay](images/docs.jpg)
+![Game Documentation](images/docs.jpg)
 
 And now that we located ourselves, let’s see how to do it!
 
-## How to do a Technical Design Document?
+### How to do a Technical Design Document?
 The TDD is composed in 5 parts.
 We will see and explain carefully every one of them with its sub sections.
 
-## 1. Game Overview
-### Game Summary
+### 1. Game Overview
+#### Game Summary
 What is your game about? You have to give a very short and general summary of what happens in your game.
 Does your main character destiny to fight the demon king? Write it down here.
+
 ![Shovel Knight](images/shovel_knight.gif)
 
-### Platform Target
+#### Platform Target
 What platform your game will be releasing? Is it PC, or maybe Consoles?
 
 What will you use to control the game? Keyboard or Gamepad, or both?
@@ -57,24 +58,24 @@ Answer all this questions in this section!
 What are the minimum requirements of your game in order to play it in a solid 60 fps in a computer? What hardware should that computer have to be able to play it?
 
 
-## 2. Development Overview
-### Development Team
-### Development Environment
-##### Development Hardware
-#### Development Software
-### GitHub Branching
+### 2. Development Overview
+#### Development Team
+#### Development Environment
+###### Development Hardware
+##### Development Software
+#### GitHub Branching
 
-## 3. Technical Features
-### Technical Requirements
-### Module Architecture
-### Game Flow
-### Graphics
-### Physics
-### Data Management
+### 3. Technical Features
+#### Technical Requirements
+#### Module Architecture
+#### Game Flow
+#### Graphics
+#### Physics
+#### Data Management
 
-## 4. Code Style
-### Naming Conventions
-### XML Structure
-### UML
+### 4. Code Style
+#### Naming Conventions
+#### XML Structure
+#### UML
 
-## 5. Technical Risk
+### 5. Technical Risk
