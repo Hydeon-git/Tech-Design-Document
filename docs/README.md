@@ -17,7 +17,7 @@ We were saying that the TDD and the GDD work together, but what are differences 
 The GDD is the core of all the documents. It includes everything that comes from the concepts and the ideas.
 On the other hand the TDD provides a blueprint for the engineers working on the code. It includes everything related to the tools and technology required to develop the game.
 
-![TDD and GDD differences](images/differences.jpg)
+![TDD and GDD differences](images/differences.JPG)
 
 Now, let’s take a look at this Valheim gif!
 We can see that there’s fog in the environment, we can different effects in screen and there’s a UI too.
