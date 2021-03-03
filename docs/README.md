@@ -180,7 +180,6 @@ A useful reference I found for you is this UML from this CITM students project.
 <img src="images/uml.png" width="550">
 
 ### 5. Technical Risk
-This part can be optional.
 
 Analyze the any lack the team might have in this project. This is useful to be able to see which part will be more difficult than another and strengthen it for the sake of making a solid project.
 
@@ -198,7 +197,7 @@ Feel free to change the template for your necessities, always checking reference
 <img src="images/mario.png" width="150">
 
 ## Template
- + [TDD Template](https://github.com/Hydeon-git/research_TDD/blob/main/tdd_template/tdd_template.docx)
+ + [TDD Template](https://github.com/Hydeon-git/research_TDD/blob/research/template/template_TDD.md)
 
 
 ## Bibliography
