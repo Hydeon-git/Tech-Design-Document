@@ -119,6 +119,8 @@ A scheme might be really useful here too.
 #### Graphics
 The screen resolution, tile size and camera view should be documented here in a few lines specifying its characteristics.
 
+What visual style the game will have? Describe the visual techniques what will be used. Which particles will be used on the game?
+
 #### Audio
 Specify what music or sound will be heard in what moment on the game.
 
