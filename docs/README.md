@@ -61,14 +61,6 @@ What are the minimum requirements of your game in order to play it in a solid 60
 
 <img src="images/consoles.jpg" width="350">
 
-How do I know which are the **minimum requirements** for my game?
-
-The answer is **TESTING**.
-
-Once the game is done, test it in all the computers you can. Make sure that the computers you test are diverse in its performance.
-
-When you find the lowest-end pc that runs your game in **low/mid graphics at solid 60fps**, you found the minimum specs for your game!
-
 <img src="images/requirements2.png" width="450">
 
 
