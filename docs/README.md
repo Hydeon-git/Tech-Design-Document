@@ -196,10 +196,11 @@ Feel free to change the template for your necessities, always checking reference
 
 <img src="images/mario.png" width="150">
 
+## Presentation
+ + [Presentation exposed in class](https://docs.google.com/presentation/d/1M6qVCjKwdKH2D5gPh7etgjmEEX5fHfTvEX3RvtdDUJs/edit#slide=id.gbf3a712bcf_0_471)
+
 ## Template
  + [TDD Template](https://github.com/Hydeon-git/research_TDD/blob/research/template/template_TDD.md)
-
-
 
 ## GitHub Repository
  + [Github Repo](https://github.com/Hydeon-git/research_TDD/tree/research)
